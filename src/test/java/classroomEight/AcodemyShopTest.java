@@ -19,7 +19,7 @@ public class AcodemyShopTest {
     WebDriverWait wait;
 
     public final String ACODEMY_SHOP_URL = "http://shop.acodemy.lv";
-
+// komentars
 
     @BeforeMethod
     public void setupBrowser() {
